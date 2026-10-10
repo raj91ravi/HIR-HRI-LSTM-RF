@@ -150,7 +150,7 @@ If you use this repository, please cite its URL and the relevant associated pape
 
 ## License
 
-No license is asserted here. Add a `LICENSE` file specifying the terms under which others may reuse the data and code.
+Creative Commons Zero v1.0 Universal.
 
 ## Maintainer
 
