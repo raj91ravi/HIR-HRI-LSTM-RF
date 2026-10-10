@@ -4,7 +4,7 @@
 
 HIR-HRI-10K is a **synthetic, rule-generated** dataset of 10,000 frame-level observations for studying multimodal human intention recognition. This repository is intended for reproducible, offline machine-learning experiments and for exploring possible future applications in human-aware quadruped robots. **It does not contain recordings of people, real robot sensor measurements, or physical robot validation.**
 
-Repository: https://github.com/raj91ravi/HIR-HRI-10K
+Dataset Repository: https://github.com/raj91ravi/HIR-HRI-10K
 
 ## Dataset overview
 
